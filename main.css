@@ -1,0 +1,13 @@
+
+#input_board #tbl .tr .tdcellDead{
+    background-color: rgb(62, 83, 83);
+    border: 1px solid rgb(255, 255, 255);
+    height: 20px;
+    width: 20px;
+}
+
+#input_board #tbl .tr .tdcellalive{
+    background-color: darkgoldenrod;
+    border: 1px solid rgb(255, 255, 255);
+}
+
